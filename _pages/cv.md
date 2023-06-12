@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BEng. in Aeronautical Engineering, Gujarat Technological University, 2012
+* MScE. in University of New Brunswick, University of New Brunswick, 2016
+
+Content below to be edited. 
+======
 
 Work experience
 ======
